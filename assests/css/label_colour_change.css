@@ -1,0 +1,35 @@
+/* code by R for label colour not change after validating */
+
+#addPromocodeForm .has-error .control-label,
+#addPromocodeForm .has-error .help-block,
+#addPromocodeForm .has-error .form-control {
+    color: #e74c3c !important;
+}
+
+#addPromocodeForm .has-success .control-label,
+#addPromocodeForm .has-success .help-block,
+#addPromocodeForm .has-success .form-control {
+    color: #73879c !important;
+    border-color: #ccc !important;
+}
+
+ .lblalign{
+    float: left;
+  }
+
+#filterby .has-error .control-label,
+#filterby .has-error .help-block,
+#filterby .has-error .form-control {
+    color: #e74c3c !important;
+}
+
+#filterby .has-success .control-label,
+#filterby .has-success .help-block,
+#filterby .has-success .form-control {
+    color: #73879c !important;
+    border-color: #ccc !important;
+}
+
+
+
+/* code by R for label colour not change after validating end */

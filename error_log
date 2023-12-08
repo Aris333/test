@@ -1,0 +1,341 @@
+[11-Apr-2017 07:33:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/technostacks/speedyfax/application/controllers/Promocode.php on line 179
+[14-Jun-2017 08:34:13 UTC] PHP Fatal error:  Call to undefined function configTwilio() in /home/technostacks/speedyfax/application/controllers/Fax.php on line 133
+[14-Jun-2017 08:36:21 UTC] PHP Fatal error:  Call to undefined function configTwilio() in /home/technostacks/speedyfax/application/controllers/Fax.php on line 133
+[14-Jun-2017 08:38:30 UTC] PHP Fatal error:  Call to undefined function configTwilio() in /home/technostacks/speedyfax/application/controllers/Fax.php on line 133
+[14-Jun-2017 08:43:13 UTC] PHP Fatal error:  Call to undefined function configTwilio() in /home/technostacks/speedyfax/application/controllers/Fax.php on line 133
+[14-Jun-2017 08:44:47 UTC] PHP Fatal error:  Call to undefined function configTwilio() in /home/technostacks/speedyfax/application/controllers/Fax.php on line 133
+[14-Jun-2017 09:13:29 UTC] PHP Fatal error:  Call to undefined function configTwilio() in /home/technostacks/speedyfax/application/controllers/Fax.php on line 102
+[14-Jun-2017 09:41:21 UTC] PHP Fatal error:  Call to a member function getMobileNumber() on null in /home/technostacks/speedyfax/application/controllers/Payment.php on line 76
+[14-Nov-2017 12:24:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2048 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 85
+[14-Nov-2017 19:10:58 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[14-Nov-2017 20:34:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4128 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[15-Nov-2017 01:54:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[15-Nov-2017 07:07:57 UTC] PHP Warning:  POST Content-Length of 222008803 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Nov-2017 07:43:07 UTC] PHP Warning:  POST Content-Length of 19221901 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Nov-2017 09:19:03 UTC] PHP Warning:  POST Content-Length of 19008380 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Nov-2017 09:27:53 UTC] PHP Warning:  POST Content-Length of 19742586 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Nov-2017 12:40:52 UTC] PHP Warning:  POST Content-Length of 23085077 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Nov-2017 12:54:04 UTC] PHP Warning:  POST Content-Length of 23084101 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Nov-2017 16:56:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[18-Nov-2017 20:06:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4128 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[20-Nov-2017 12:05:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 12:07:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 12:11:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 12:18:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 82 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[20-Nov-2017 12:20:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 91 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[20-Nov-2017 12:22:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 12:24:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 91 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[20-Nov-2017 12:25:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 91 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[20-Nov-2017 12:27:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 12:28:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 81 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[20-Nov-2017 12:29:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 12:36:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 12:40:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 13:22:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 13:29:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 13:34:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 13:48:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4182 bytes) in /home/technostacks/speedyfax/application/libraries/pam/lib/ApiClient.php on line 304
+[20-Nov-2017 15:57:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[21-Nov-2017 12:17:45 UTC] PHP Fatal error:  Call to undefined method Credits_model::xyz() in /home/technostacks/speedyfax/application/controllers/Credits.php on line 143
+[21-Nov-2017 14:47:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2048 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[22-Nov-2017 12:06:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:06:18 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:07:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:07:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:52 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:53 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:08:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:09:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:09:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:09:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:09:18 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:09:19 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:09:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:09:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:09:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 12:09:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/technostacks/speedyfax/application/third_party/notification/firebase.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/technostacks/speedyfax/application/controllers/Fax.php on line 550
+[22-Nov-2017 16:11:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[22-Nov-2017 16:12:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4128 bytes) in /home/technostacks/speedyfax/application/libraries/pam/Pam.php on line 91
+[24-Nov-2017 12:26:36 UTC] PHP Warning:  POST Content-Length of 11906768 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[24-Nov-2017 12:43:02 UTC] PHP Warning:  POST Content-Length of 70582553 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 04:42:58 UTC] PHP Warning:  POST Content-Length of 8734631 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 04:43:50 UTC] PHP Warning:  POST Content-Length of 14573575 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 04:55:07 UTC] PHP Warning:  POST Content-Length of 10994175 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 06:06:45 UTC] PHP Warning:  POST Content-Length of 10926686 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 06:30:26 UTC] PHP Warning:  POST Content-Length of 12611299 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 06:33:02 UTC] PHP Warning:  POST Content-Length of 10446084 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 08:38:34 UTC] PHP Warning:  POST Content-Length of 24629878 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 08:49:27 UTC] PHP Warning:  POST Content-Length of 90460152 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 08:50:37 UTC] PHP Warning:  POST Content-Length of 9220320 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 08:55:30 UTC] PHP Warning:  POST Content-Length of 61057208 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:04:04 UTC] PHP Warning:  POST Content-Length of 32211628 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:06:10 UTC] PHP Warning:  POST Content-Length of 50037183 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:06:52 UTC] PHP Warning:  POST Content-Length of 37751334 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:09:45 UTC] PHP Warning:  POST Content-Length of 33796106 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:10:27 UTC] PHP Warning:  POST Content-Length of 10742912 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:11:42 UTC] PHP Warning:  POST Content-Length of 25368868 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:16:34 UTC] PHP Warning:  POST Content-Length of 23891121 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:28:21 UTC] PHP Warning:  POST Content-Length of 14216423 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:32:11 UTC] PHP Warning:  POST Content-Length of 54892788 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:38:00 UTC] PHP Warning:  POST Content-Length of 37462893 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 09:42:38 UTC] PHP Warning:  POST Content-Length of 41375699 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 10:05:36 UTC] PHP Warning:  POST Content-Length of 8606745 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 10:06:27 UTC] PHP Warning:  POST Content-Length of 8428058 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 10:08:20 UTC] PHP Warning:  POST Content-Length of 23098795 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:23:18 UTC] PHP Warning:  POST Content-Length of 12392544 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:23:37 UTC] PHP Warning:  POST Content-Length of 9020682 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:25:50 UTC] PHP Warning:  POST Content-Length of 45571358 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:27:30 UTC] PHP Warning:  POST Content-Length of 44392855 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:30:56 UTC] PHP Warning:  POST Content-Length of 48852566 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:31:36 UTC] PHP Warning:  POST Content-Length of 21312908 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:32:53 UTC] PHP Warning:  POST Content-Length of 13472641 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:36:04 UTC] PHP Warning:  POST Content-Length of 15100572 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:39:59 UTC] PHP Warning:  POST Content-Length of 76060260 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:43:52 UTC] PHP Warning:  POST Content-Length of 42031211 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:47:48 UTC] PHP Warning:  POST Content-Length of 32997319 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:55:40 UTC] PHP Warning:  POST Content-Length of 41071333 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 11:56:41 UTC] PHP Warning:  POST Content-Length of 45740262 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:01:51 UTC] PHP Warning:  POST Content-Length of 45018000 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:03:42 UTC] PHP Warning:  POST Content-Length of 22726704 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:05:19 UTC] PHP Warning:  POST Content-Length of 20134076 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:06:06 UTC] PHP Warning:  POST Content-Length of 16084010 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:11:27 UTC] PHP Warning:  POST Content-Length of 52867890 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:15:03 UTC] PHP Warning:  POST Content-Length of 41071928 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:18:24 UTC] PHP Warning:  POST Content-Length of 62841867 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:26:41 UTC] PHP Warning:  POST Content-Length of 50117274 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:34:55 UTC] PHP Warning:  POST Content-Length of 17753038 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:35:22 UTC] PHP Warning:  POST Content-Length of 28334808 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:43:41 UTC] PHP Warning:  POST Content-Length of 35054480 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 12:53:33 UTC] PHP Warning:  POST Content-Length of 90865256 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 13:00:27 UTC] PHP Warning:  POST Content-Length of 129517266 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 13:02:56 UTC] PHP Warning:  POST Content-Length of 21990121 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 13:03:49 UTC] PHP Warning:  POST Content-Length of 38889114 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 13:08:38 UTC] PHP Warning:  POST Content-Length of 28610707 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 13:11:29 UTC] PHP Warning:  POST Content-Length of 29719605 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 13:13:22 UTC] PHP Warning:  POST Content-Length of 22231910 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 13:14:38 UTC] PHP Warning:  POST Content-Length of 63193084 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 13:15:29 UTC] PHP Warning:  POST Content-Length of 29326748 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 13:18:27 UTC] PHP Warning:  POST Content-Length of 61806853 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Nov-2017 13:19:43 UTC] PHP Warning:  POST Content-Length of 57006241 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 04:38:49 UTC] PHP Warning:  POST Content-Length of 8484087 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 04:41:26 UTC] PHP Warning:  POST Content-Length of 63189188 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 04:46:21 UTC] PHP Warning:  POST Content-Length of 10893705 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 04:48:46 UTC] PHP Warning:  POST Content-Length of 14485919 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 04:50:05 UTC] PHP Warning:  POST Content-Length of 14485932 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 04:53:26 UTC] PHP Warning:  POST Content-Length of 14485799 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 04:59:30 UTC] PHP Warning:  POST Content-Length of 31838364 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:12:47 UTC] PHP Warning:  POST Content-Length of 11750337 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:26:17 UTC] PHP Warning:  POST Content-Length of 9539433 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:26:55 UTC] PHP Warning:  POST Content-Length of 33900493 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:28:59 UTC] PHP Warning:  POST Content-Length of 14029525 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:32:45 UTC] PHP Warning:  POST Content-Length of 15492030 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:35:23 UTC] PHP Warning:  POST Content-Length of 35324903 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:37:42 UTC] PHP Warning:  POST Content-Length of 59346260 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:39:06 UTC] PHP Warning:  POST Content-Length of 15306054 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:40:33 UTC] PHP Warning:  POST Content-Length of 11757209 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:42:22 UTC] PHP Warning:  POST Content-Length of 13991601 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:45:52 UTC] PHP Warning:  POST Content-Length of 53361731 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:51:49 UTC] PHP Warning:  POST Content-Length of 48865840 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:53:24 UTC] PHP Warning:  POST Content-Length of 31911267 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:54:18 UTC] PHP Warning:  POST Content-Length of 25564783 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:55:29 UTC] PHP Warning:  POST Content-Length of 26514363 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:57:02 UTC] PHP Warning:  POST Content-Length of 29420180 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 05:59:31 UTC] PHP Warning:  POST Content-Length of 54224557 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 06:03:38 UTC] PHP Warning:  POST Content-Length of 19663316 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 06:05:58 UTC] PHP Warning:  POST Content-Length of 94809974 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 06:12:05 UTC] PHP Warning:  POST Content-Length of 30359001 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 06:16:22 UTC] PHP Warning:  POST Content-Length of 36442815 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 06:23:19 UTC] PHP Warning:  POST Content-Length of 40836357 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 06:33:21 UTC] PHP Warning:  POST Content-Length of 21842155 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 06:37:16 UTC] PHP Warning:  POST Content-Length of 10498198 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 06:43:05 UTC] PHP Warning:  POST Content-Length of 29102973 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 06:46:58 UTC] PHP Warning:  POST Content-Length of 20552380 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:25:54 UTC] PHP Warning:  POST Content-Length of 11482027 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:28:44 UTC] PHP Warning:  POST Content-Length of 11533995 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:30:32 UTC] PHP Warning:  POST Content-Length of 25102764 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:34:20 UTC] PHP Warning:  POST Content-Length of 21667529 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:35:57 UTC] PHP Warning:  POST Content-Length of 35234762 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:39:31 UTC] PHP Warning:  POST Content-Length of 23880337 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:40:45 UTC] PHP Warning:  POST Content-Length of 23880353 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:41:20 UTC] PHP Warning:  POST Content-Length of 23880353 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:42:14 UTC] PHP Warning:  POST Content-Length of 23880353 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:58:19 UTC] PHP Warning:  POST Content-Length of 19073317 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 12:59:41 UTC] PHP Warning:  POST Content-Length of 19073317 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 13:03:23 UTC] PHP Warning:  POST Content-Length of 19073317 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 13:08:03 UTC] PHP Warning:  POST Content-Length of 19073011 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 13:10:57 UTC] PHP Warning:  POST Content-Length of 19073011 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 13:13:26 UTC] PHP Warning:  POST Content-Length of 19073011 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 14:00:05 UTC] PHP Warning:  POST Content-Length of 16980864 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 14:28:11 UTC] PHP Warning:  POST Content-Length of 14730318 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 14:32:17 UTC] PHP Warning:  POST Content-Length of 19074923 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 17:24:52 UTC] PHP Warning:  POST Content-Length of 14397539 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 17:28:08 UTC] PHP Warning:  POST Content-Length of 23344618 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Nov-2017 22:44:58 UTC] PHP Warning:  POST Content-Length of 14397609 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 10:01:38 UTC] PHP Warning:  POST Content-Length of 21014987 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 10:14:05 UTC] PHP Warning:  POST Content-Length of 21014988 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 10:16:10 UTC] PHP Warning:  POST Content-Length of 21015231 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 10:35:47 UTC] PHP Warning:  POST Content-Length of 21015204 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 10:39:34 UTC] PHP Warning:  POST Content-Length of 21015336 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 10:44:36 UTC] PHP Warning:  POST Content-Length of 21014986 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:17:53 UTC] PHP Warning:  POST Content-Length of 16024769 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:26:28 UTC] PHP Warning:  POST Content-Length of 14599452 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:27:51 UTC] PHP Warning:  POST Content-Length of 23526792 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:37:47 UTC] PHP Warning:  POST Content-Length of 8931626 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:39:22 UTC] PHP Warning:  POST Content-Length of 9087024 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:44:21 UTC] PHP Warning:  POST Content-Length of 11720802 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:45:46 UTC] PHP Warning:  POST Content-Length of 11964004 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:47:12 UTC] PHP Warning:  POST Content-Length of 16519205 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:48:22 UTC] PHP Warning:  POST Content-Length of 10918012 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:52:02 UTC] PHP Warning:  POST Content-Length of 17190041 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:52:37 UTC] PHP Warning:  POST Content-Length of 17190041 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:53:47 UTC] PHP Warning:  POST Content-Length of 10920018 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 11:58:02 UTC] PHP Warning:  POST Content-Length of 16521137 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 12:13:13 UTC] PHP Warning:  POST Content-Length of 10918051 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 12:18:51 UTC] PHP Warning:  POST Content-Length of 10920018 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 12:22:50 UTC] PHP Warning:  POST Content-Length of 10920018 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 12:29:19 UTC] PHP Warning:  POST Content-Length of 10920018 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 13:10:50 UTC] PHP Warning:  POST Content-Length of 11998068 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 13:11:26 UTC] PHP Warning:  POST Content-Length of 11998051 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 13:11:58 UTC] PHP Warning:  POST Content-Length of 11998051 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 13:12:59 UTC] PHP Warning:  POST Content-Length of 11998198 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[29-Nov-2017 13:26:16 UTC] PHP Warning:  POST Content-Length of 15126827 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 04:40:07 UTC] PHP Warning:  POST Content-Length of 10894311 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 04:47:44 UTC] PHP Warning:  POST Content-Length of 10918135 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 05:40:17 UTC] PHP Warning:  POST Content-Length of 10918220 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 06:37:46 UTC] PHP Warning:  POST Content-Length of 24307251 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 06:52:16 UTC] PHP Warning:  POST Content-Length of 24307251 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 07:05:59 UTC] PHP Warning:  POST Content-Length of 11993882 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 07:09:22 UTC] PHP Warning:  POST Content-Length of 11994170 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 07:15:56 UTC] PHP Warning:  POST Content-Length of 10894280 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 07:25:51 UTC] PHP Warning:  POST Content-Length of 10894272 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 07:26:59 UTC] PHP Warning:  POST Content-Length of 10894335 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 07:30:51 UTC] PHP Warning:  POST Content-Length of 10894386 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 07:32:34 UTC] PHP Warning:  POST Content-Length of 10894258 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 07:34:02 UTC] PHP Warning:  POST Content-Length of 10894391 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 07:35:59 UTC] PHP Warning:  POST Content-Length of 10894346 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 08:40:39 UTC] PHP Warning:  POST Content-Length of 10918043 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 08:45:51 UTC] PHP Warning:  POST Content-Length of 10917906 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 09:02:44 UTC] PHP Warning:  POST Content-Length of 10894315 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 09:36:58 UTC] PHP Warning:  POST Content-Length of 10894387 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Nov-2017 09:51:27 UTC] PHP Warning:  POST Content-Length of 10894277 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[02-Dec-2017 04:39:49 UTC] PHP Warning:  POST Content-Length of 13934517 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[04-Dec-2017 05:07:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 799
+[04-Dec-2017 06:36:52 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/technostacks/speedyfax/application/controllers/Fax.php on line 800
+[04-Dec-2017 06:38:33 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/technostacks/speedyfax/application/controllers/Fax.php on line 800
+[04-Dec-2017 06:38:42 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/technostacks/speedyfax/application/controllers/Fax.php on line 800
+[05-Dec-2017 05:43:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 640
+[05-Dec-2017 07:07:42 UTC] PHP Parse error:  syntax error, unexpected '"<pre>"' (T_CONSTANT_ENCAPSED_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 849
+[05-Dec-2017 07:25:07 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:25:15 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:04 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:04 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:23 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:25 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:27 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:28 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:29 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:31 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:32 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:33 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:33 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:34 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:34 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:34 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:34 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:35 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:54 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:56 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:57 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:26:58 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:27:04 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:27:34 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 07:27:47 UTC] PHP Parse error:  syntax error, unexpected 'json_encode' (T_STRING) in /home/technostacks/speedyfax/application/controllers/Fax.php on line 901
+[05-Dec-2017 11:57:38 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/technostacks/speedyfax/application/controllers/Fax.php on line 973
+[05-Dec-2017 21:30:30 UTC] PHP Warning:  POST Content-Length of 12801384 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[05-Dec-2017 21:55:46 UTC] PHP Warning:  POST Content-Length of 12619551 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[06-Dec-2017 10:46:08 UTC] PHP Warning:  POST Content-Length of 12451418 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[07-Dec-2017 10:39:26 UTC] PHP Warning:  POST Content-Length of 11736519 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[11-Dec-2017 11:35:06 UTC] PHP Warning:  POST Content-Length of 11826696 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Dec-2017 05:53:28 UTC] PHP Warning:  POST Content-Length of 14056374 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Dec-2017 07:07:44 UTC] PHP Warning:  POST Content-Length of 12074862 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[12-Dec-2017 12:41:35 UTC] PHP Warning:  POST Content-Length of 9319454 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 05:25:58 UTC] PHP Warning:  POST Content-Length of 9788099 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 05:30:51 UTC] PHP Warning:  POST Content-Length of 9140500 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 05:35:48 UTC] PHP Warning:  POST Content-Length of 8533568 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 05:53:39 UTC] PHP Warning:  POST Content-Length of 9119453 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 06:07:01 UTC] PHP Warning:  POST Content-Length of 9627296 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 06:17:26 UTC] PHP Warning:  POST Content-Length of 9732319 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 06:36:36 UTC] PHP Warning:  POST Content-Length of 12197458 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 06:53:28 UTC] PHP Warning:  POST Content-Length of 8702316 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 07:35:01 UTC] PHP Warning:  POST Content-Length of 13034661 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 08:54:47 UTC] PHP Warning:  POST Content-Length of 11005781 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 08:58:43 UTC] PHP Warning:  POST Content-Length of 11412284 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 23:15:20 UTC] PHP Warning:  POST Content-Length of 13503697 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[13-Dec-2017 23:19:30 UTC] PHP Warning:  POST Content-Length of 15287814 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[14-Dec-2017 11:22:15 UTC] PHP Warning:  POST Content-Length of 11200454 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[14-Dec-2017 13:09:06 UTC] PHP Warning:  POST Content-Length of 11517834 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[14-Dec-2017 13:11:49 UTC] PHP Warning:  POST Content-Length of 16888819 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Dec-2017 04:24:26 UTC] PHP Warning:  POST Content-Length of 10789323 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Dec-2017 04:39:33 UTC] PHP Warning:  POST Content-Length of 11184077 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Dec-2017 04:42:05 UTC] PHP Warning:  POST Content-Length of 10397815 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[15-Dec-2017 04:44:51 UTC] PHP Warning:  POST Content-Length of 11818524 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Dec-2017 03:44:51 UTC] PHP Warning:  POST Content-Length of 9826284 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Dec-2017 03:50:24 UTC] PHP Warning:  POST Content-Length of 13150795 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Dec-2017 03:54:40 UTC] PHP Warning:  POST Content-Length of 10854895 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Dec-2017 04:09:45 UTC] PHP Warning:  POST Content-Length of 13372093 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Dec-2017 04:12:49 UTC] PHP Warning:  POST Content-Length of 9265197 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Dec-2017 13:36:51 UTC] PHP Warning:  POST Content-Length of 8544551 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Dec-2017 13:44:01 UTC] PHP Warning:  POST Content-Length of 16746765 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Dec-2017 14:00:01 UTC] PHP Warning:  POST Content-Length of 16086113 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[17-Dec-2017 14:11:16 UTC] PHP Warning:  POST Content-Length of 9968956 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Dec-2017 11:41:33 UTC] PHP Warning:  POST Content-Length of 8462460 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Dec-2017 05:58:20 UTC] PHP Warning:  POST Content-Length of 9183593 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Dec-2017 06:04:03 UTC] PHP Warning:  POST Content-Length of 9109722 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Dec-2017 06:06:51 UTC] PHP Warning:  POST Content-Length of 10038334 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Dec-2017 06:15:57 UTC] PHP Warning:  POST Content-Length of 11344898 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[19-Dec-2017 06:20:14 UTC] PHP Warning:  POST Content-Length of 10019466 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Dec-2017 02:16:46 UTC] PHP Warning:  POST Content-Length of 12150259 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Dec-2017 02:22:58 UTC] PHP Warning:  POST Content-Length of 8797260 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[21-Dec-2017 02:57:04 UTC] PHP Warning:  POST Content-Length of 8797414 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Dec-2017 13:04:33 UTC] PHP Warning:  POST Content-Length of 15407720 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[26-Dec-2017 13:09:03 UTC] PHP Warning:  POST Content-Length of 9261360 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Dec-2017 12:43:48 UTC] PHP Warning:  POST Content-Length of 9864425 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Dec-2017 21:45:57 UTC] PHP Warning:  POST Content-Length of 11783516 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[27-Dec-2017 21:53:49 UTC] PHP Warning:  POST Content-Length of 9234086 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Dec-2017 20:58:54 UTC] PHP Warning:  POST Content-Length of 9627082 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[28-Dec-2017 21:26:39 UTC] PHP Warning:  POST Content-Length of 12055992 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[30-Dec-2017 17:26:51 UTC] PHP Warning:  POST Content-Length of 10376542 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[18-Feb-2023 20:54:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[18-Feb-2023 20:54:51 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 22883232 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/core/Loader.php on line 990
+[18-Feb-2023 20:54:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[18-Feb-2023 20:55:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 22883232 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/core/Loader.php on line 990
+[18-Feb-2023 21:08:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[05-Mar-2023 19:51:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[05-Mar-2023 19:51:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[05-Mar-2023 20:01:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[05-Mar-2023 20:03:04 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[05-Mar-2023 20:15:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[25-Mar-2023 19:34:29 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[25-Mar-2023 19:36:38 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[25-Mar-2023 19:47:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[28-Mar-2023 16:42:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[28-Mar-2023 16:42:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 23068672 bytes) in /home/u7lgh8s4bqv4/public_html/api/application/views/fax/index.php on line 174
+[11-Apr-2023 19:22:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[11-Apr-2023 19:23:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[11-Apr-2023 19:27:36 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/u7lgh8s4bqv4/public_html/api/system/database/drivers/mysqli/mysqli_result.php on line 183
+[05-May-2023 19:35:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/u7lgh8s4bqv4/public_html/apii/system/database/drivers/mysqli/mysqli_result.php on line 183
+[05-May-2023 19:35:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/u7lgh8s4bqv4/public_html/apii/system/database/drivers/mysqli/mysqli_result.php on line 183
+[06-May-2023 18:44:41 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/u7lgh8s4bqv4/public_html/dtest/application/controllers/User.php on line 7
+[06-May-2023 18:44:56 UTC] PHP Fatal error:  Class 'MY_Controller' not found in /home/u7lgh8s4bqv4/public_html/dtest/application/controllers/User.php on line 7
+[06-May-2023 18:54:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/u7lgh8s4bqv4/public_html/dtest/system/database/drivers/mysqli/mysqli_result.php on line 183
+[06-May-2023 19:17:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u7lgh8s4bqv4/public_html/dtest/application/third_party/sendgrid-php/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u7lgh8s4bqv4/public_html/dtest/application/core/MY_Controller.php on line 5
+[06-May-2023 19:17:55 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u7lgh8s4bqv4/public_html/dtest/application/third_party/sendgrid-php/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u7lgh8s4bqv4/public_html/dtest/application/core/MY_Controller.php on line 5

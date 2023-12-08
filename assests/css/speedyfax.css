@@ -1,0 +1,53 @@
+body, .left_col, .nav_title{background-color: #2A2B3C;}
+.top_nav .nav_menu a{color:#555C5D;}
+.nav.side-menu>li.active>a{background:#A88ADD;}
+.nav-md ul.nav.child_menu li:before{background:linear-gradient(#BBBBBB, #7F8387),#A88ADD;}
+.nav-md ul.nav.child_menu li:after, .nav.side-menu>li.current-page, .nav.side-menu>li.active{border-color:#A88ADD;}
+.copyright{color: #2d2f30;}
+.login .parsley-required{text-align: left;}
+.alert .close, .alert .close{right:-2px;}
+.alert .close span{color:#fff;}
+input.parsley-error, textarea.parsley-error, select.parsley-error{border-color: #73879c;}
+.site_title i { padding: 7px 10px; border: none; border-radius: 0;}
+.x_title > h2 { margin-bottom: 15px; width: 100%;}
+.alert{padding:5px 10px !important;}
+.x_title .close{margin-bottom: 0;}
+#previewImg .imgWrapper{padding: 5px; display: inline-block;}
+/*#previewImg .imgWrapper a{background-image: url("../images/trash.png"); background-position: center center; background-size: 100% auto; height: 20px; left: auto;  margin: 0 auto;  position: absolute;   right: auto;    width: 20px;}*/
+#previewImg .imgWrapper a{display: block;}
+#imageWrapper{border: 1px dotted #bbb;}
+.detailsWrapper{margin-bottom: 5px; display: block; float: left;}
+.nav.nav-tabs{padding-left: 0;}
+/*#loginBody{
+    background-image: url("../images/bar.jpg");
+    background-size: cover;
+}*/
+/*.login_wrapper{margin-top: 0%;}*/
+.login_content form { margin: 10px 0;}
+#loginBody #loginForm input[type="text"], #loginBody #loginForm input[type="password"]{margin-bottom: 0; box-shadow: none;}
+.login_content h1:after,.login_content h1:before{ background: #000;}
+.login_content h1, .login_content .copyright{color:#000;}
+.login_content h1{border-color: #ffffff;}
+.login_content input[type="text"], .login_content input[type="password"], .login_content input[type="submit"]{ height: 40px;}
+.login_content ul.parsley-errors-list{color:#EA4C4D; text-shadow:none; font-size: 14px; clear: both;}
+.tile_count .tile_stats_count span{font-size: 16px;}
+.nav-md .sidebar_logo{padding:20px; width: 100%;}
+.nav-sm .sidebar_logo{width: 50px;}
+
+.nav-md .container.body .right_col{min-height: 600px !important;}
+.dataTable tr td, .dataTable tr th {text-align: center;}
+
+.logoWrapper{
+    background: rgba(0, 0, 0, 0) url("../images/logo_transparent.png") no-repeat scroll center center / auto 75px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 20px;
+}
+.registration_form, .login_form {position: relative;}
+#viewPromocode p.form-control{border: none; box-shadow: none;}
+.select2{width: 100% !important;}
+.detailViewTable td, .detailViewTable th{border:none !important;}
+.detailViewTable{width: 60%; }
+#randomPromoWrapper{padding:10px;width: 225px;}
